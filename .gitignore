@@ -1,0 +1,5 @@
+# report
+*.pdf
+
+# vscode
+.vscode

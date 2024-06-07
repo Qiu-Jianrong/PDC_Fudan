@@ -1,0 +1,20 @@
+Batch size: 1K
+Sequential time: 0.123 ms
+Parallel time: 0.281 ms
+Speedup: 0.437722
+
+Batch size: 5K
+Sequential time: 1.172 ms
+Parallel time: 0.753 ms
+Speedup: 1.55644
+
+Batch size: 10K
+Sequential time: 2.12 ms
+Parallel time: 1.468 ms
+Speedup: 1.44414
+
+Batch size: 100K
+Sequential time: 34.476 ms
+Parallel time: 23.082 ms
+Speedup: 1.49363
+

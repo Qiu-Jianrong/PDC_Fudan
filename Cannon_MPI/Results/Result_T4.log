@@ -1,0 +1,20 @@
+Matrix size: 32 * 32
+Sequential time: 0.432ms
+Cannon Algorithm time: 13.139ms
+Speedup: 0.0328792
+
+Matrix size: 64 * 64
+Sequential time: 3.179ms
+Cannon Algorithm time: 13.504ms
+Speedup: 0.235412
+
+Matrix size: 128 * 128
+Sequential time: 23.897ms
+Cannon Algorithm time: 23.636ms
+Speedup: 1.01104
+
+Matrix size: 256 * 256
+Sequential time: 352.162ms
+Cannon Algorithm time: 75.801ms
+Speedup: 4.64588
+

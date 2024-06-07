@@ -1,0 +1,20 @@
+Matrix size: 32 * 32
+Sequential time: 0.464ms
+Simpl Block time: 9.742ms
+Speedup: 0.0476288
+
+Matrix size: 64 * 64
+Sequential time: 3.69ms
+Simpl Block time: 13.833ms
+Speedup: 0.266753
+
+Matrix size: 128 * 128
+Sequential time: 23.224ms
+Simpl Block time: 19.61ms
+Speedup: 1.18429
+
+Matrix size: 256 * 256
+Sequential time: 177.793ms
+Simpl Block time: 86.807ms
+Speedup: 2.04814
+
